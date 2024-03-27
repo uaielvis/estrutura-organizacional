@@ -1,0 +1,15 @@
+{
+  "name": "estrutura-organizacional",
+  "version": "1.0.0",
+  "description": "Descrição do Problema:\r Você está desenvolvendo um sistema para representar a estrutura de uma organização. A organização possui uma hierarquia de funcionários, onde cada funcionário pode ser um indivíduo ou um departamento. Cada departamento pode conter mais funcionários ou subdepartamentos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
